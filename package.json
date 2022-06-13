@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@adiwajshing/baileys": "^3.5.1",
+    "@adiwajshing/baileys": "^4.1.0",
     "chalk": "^4.1.2"
   }
 }
