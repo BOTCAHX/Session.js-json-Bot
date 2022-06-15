@@ -48,3 +48,15 @@ Scan nya.
 - BOTCAHX
 - Bila Mau memperbaiki Bug silahkan hubungi saya di WA 082221792667
 ```
+
+## Wibubot-pricing/kloning.json
+**Pembaruan Repositori Direktori Dengan Nama BOTCAHX**. Pelajari Lebih Lanjut Di [Wibubot-pricing Untuk Repositori Git ↗︎](https://wibustore.vercel.app)
+
+| Name | Status | Preview | Updated |
+| :--- | :----- | :------ | :------ |
+| **Session.js-json-Bot** | ✅ Ready ([Inspect](https://github.com/BOTCAHX/Session.js-json-Bot) | [Visit Preview](https://github.com/BOTCAHX/Session.js-json-Bot) | Jun 15, 2022 Rabu 10:28 WIB |
+
+| Name | Modal | Harga |
+|-----------|------------|-----------|
+| **Session.js-json-Bot** | Free Trial | Rp 0 |
+| **BOTCAHX/Session.js-json-Bot** | Unlimited Trial | Rp 0 |
